@@ -28,6 +28,8 @@ Otherwise, type this in the terminal:
 brew install git
 ```
 
+
+
 Check that you have the right version:
 
 Type this in the terminal:

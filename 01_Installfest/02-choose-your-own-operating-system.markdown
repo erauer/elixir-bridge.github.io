@@ -11,5 +11,5 @@ page_turn_links: none
 
 Windows
 
-Linux
+[Linux](03-linux-setup)
 
